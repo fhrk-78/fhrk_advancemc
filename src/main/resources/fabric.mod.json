@@ -5,13 +5,13 @@
 	"name": "fhrk_AdvanceMC",
 	"description": "Fabric mod by PizzaHarumaki",
 	"authors": [
-		"Me!"
+		"PizzaHarumaki"
 	],
 	"contact": {
 		"homepage": "https://fhrk-78.github.io",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/fhrk-78/fhrk_advancemc"
 	},
-	"license": "CC0-1.0",
+	"license": "CC-BY-SA 4.0",
 	"icon": "assets/fhrk_advancemc/icon.png",
 	"environment": "*",
 	"entrypoints": {

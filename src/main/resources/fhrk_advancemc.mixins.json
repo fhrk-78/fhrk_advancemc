@@ -3,7 +3,7 @@
 	"package": "io.github.fhrk_78.admc.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"Fhrk_AdvanceMCMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
