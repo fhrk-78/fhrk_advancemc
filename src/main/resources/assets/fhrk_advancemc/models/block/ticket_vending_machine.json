@@ -1,0 +1,6 @@
+{
+  "parent": "block/ticket_vending_machine",
+  "textures": {
+    "all": "fhrk_advancemc:block/ticket_vending_machine"
+  }
+}
