@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+* {
+  margin: 0;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+body {
+  background-image: url(./../asset/2024-02-02_17.40.27.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body div.a {
+  width: 550px;
+  margin: 0 auto;
+  -webkit-backdrop-filter: blur(15px);
+          backdrop-filter: blur(15px);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+  overflow-wrap: break-word;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+  overflow-wrap: break-word;
+}
+
+div.s {
+  padding: 10px;
+  border: solid 5px rgba(33, 209, 33, 0.5);
+  background-color: rgba(173, 240, 173, 0.5);
+  border-radius: 30px;
+  width: 400px;
+  margin: 20px auto;
+  font-size: 1.5rem;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+}
+
+div.w {
+  padding: 10px;
+  border: solid 5px rgba(209, 127, 33, 0.5);
+  background-color: rgba(240, 217, 173, 0.5);
+  border-radius: 30px;
+  width: 400px;
+  margin: 20px auto;
+  font-size: 1.5rem;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+}
+
+p {
+  text-align: center;
+  font-size: 1.7rem;
+  padding: 20px 50px;
+  color: white;
+  overflow-wrap: break-word;
+}
+
+img {
+  text-align: center;
+  margin: 20px auto;
+}
+
+code {
+  font-family: "Source Code Pro", monospace;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+span.sm {
+  font-size: 1.2rem;
+}
+
+p a {
+  color: #FF0345;
+  text-decoration: none;
+}
+p a:hover {
+  border-bottom: solid 2px #FF0345;
+}
+
+a.bt {
+  color: white;
+  background-color: #FF0345;
+  border: solid 3px #FF0345;
+  text-decoration: none;
+  padding: 7px;
+  font-size: 1.2rem;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+a.bt:hover {
+  background-color: transparent;
+  border: solid 3px #FF0345;
+}
+
+a.btr {
+  background-color: transparent;
+}
+a.btr:hover {
+  background-color: #FF0345;
+}
+
+.buttonArea {
+  padding: 20px 50px;
+}
+.buttonArea div {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
