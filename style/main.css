@@ -116,6 +116,24 @@ a.btr:hover {
   background-color: #FF0345;
 }
 
+a.gray {
+  border: solid 3px gray;
+  background-color: gray;
+}
+a.gray:hover {
+  background-color: transparent;
+  border: solid 3px gray;
+}
+
+a.btr.gray {
+  border: solid 3px gray;
+  background-color: transparent;
+}
+a.btr.gray:hover {
+  background-color: gray;
+  border: solid 3px gray;
+}
+
 .buttonArea {
   padding: 20px 50px;
 }

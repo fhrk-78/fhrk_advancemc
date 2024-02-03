@@ -114,6 +114,24 @@ a.btr {
     }
 }
 
+a.gray {
+    border: solid 3px gray;
+    background-color: gray;
+    &:hover {
+        background-color: transparent;
+        border: solid 3px gray;
+    }
+}
+
+a.btr.gray {
+    border: solid 3px gray;
+    background-color: transparent;
+    &:hover {
+        background-color: gray;
+        border: solid 3px gray;
+    }
+}
+
 .buttonArea {
     padding: 20px 50px;
     div {
